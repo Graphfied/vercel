@@ -1,5 +1,11 @@
 # vercel
 
+## 31.2.4
+
+### Patch Changes
+
+- Sanitize argv in log during `vc build`. ([#10311](https://github.com/vercel/vercel/pull/10311))
+
 ## 31.2.3
 
 ### Patch Changes
